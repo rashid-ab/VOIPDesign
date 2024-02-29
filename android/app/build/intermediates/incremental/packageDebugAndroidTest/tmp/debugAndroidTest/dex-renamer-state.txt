@@ -1,0 +1,7 @@
+#Fri Feb 16 10:38:56 PKT 2024
+base.0=/Users/brackets/Documents/brackets-voip-mobile-app/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/brackets/Documents/brackets-voip-mobile-app/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/5/classes.dex
+path.0=0/classes.dex
+path.1=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
